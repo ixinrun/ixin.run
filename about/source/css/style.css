@@ -45,13 +45,15 @@ p {
 #name h1 {
 	font-size: 2.5em;
 	font-weight: 700;
+	margin-top: 10px;
 	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
 	margin-bottom: -6px;
 }
 
 #name h2 {
-	font-size: 2em;
-	margin-left: 2px;
+	font-size: 1.3em;
+	margin-left: 1px;
+	margin-top: 5px;
 	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
 }
 
